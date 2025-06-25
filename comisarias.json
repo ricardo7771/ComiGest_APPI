@@ -1,0 +1,405 @@
+[
+  {
+    "id": 1,
+    "nombre": "Sierra Papacal",
+    "lat": 21.125524793973273,
+    "lng":  -89.72839156456287,
+    "estado": "normal",
+    "registros": ["Deshierbe programado", "Limpieza terminada"]
+  },
+  {
+    "id": 2,
+    "nombre": "Dzidzilche",
+    "lat": 21.15284352760638, 
+    "lng": -89.68968807791639,
+    "estado": "pendiente",
+    "registros": ["Parque sin luz", "Solicitan brigada"]
+  },
+  {
+    "id": 3,
+    "nombre": "Tamanche",
+    "lat": 21.138616155302255, 
+    "lng": -89.64153612049765,
+    "estado": "urgente",
+    "registros": ["Protesta vecinal activa"]
+  },
+    {
+    "id":4 ,
+    "nombre": "Kikteil",
+    "lat": 21.130131149092197, 
+    "lng": -89.6931598043623, 
+    "estado": "urgente",
+    "registros": ["Protesta vecinal activa"]
+  },
+    {
+    "id": 5,
+    "nombre": "Xcunya",
+    "lat": 21.13203821794307,  
+    "lng": -89.61426016578845,
+    "estado": "normal",
+    "registros": ["Protesta vecinal activa"]
+  },
+
+    {
+    "id": 6,
+    "nombre": "Caucel",
+    "lat": 21.020942510114793,   
+    "lng": -89.69736336482028,
+    "estado": "normal",
+    "registros": ["Protesta vecinal activa"]
+  },
+    {
+    "id": 7,
+    "nombre": "Chablekal",
+    "lat": 21.09674111905838,    
+    "lng": -89.56383560536071,
+    "estado": "normal",
+    "registros": ["Protesta vecinal activa"]
+  },
+    {
+    "id": 8,
+    "nombre": "Chalmuch",
+    "lat": 20.972008247260042,     
+    "lng": -89.72469691553314,
+    "estado": "normal",
+    "registros": ["Protesta vecinal activa"]
+  },
+    {
+    "id": 9,
+    "nombre": "Cheuman",
+    "lat": 21.065875951717594,      
+    "lng": -89.70566855148148,
+    "estado": "normal",
+    "registros": ["Protesta vecinal activa"]
+  },
+    {
+    "id": 10,
+    "nombre": "Chichi Suarez",
+    "lat": 21.004029988053226,        
+    "lng": -89.54567574103646,
+    "estado": "normal",
+    "registros": ["Protesta vecinal activa"]
+  },
+    {
+    "id": 11,
+    "nombre": "Cholul",
+    "lat": 21.049923400688737,         
+    "lng": -89.55730124362073,
+    "estado": "normal",
+    "registros": ["Protesta vecinal activa"]
+  },
+    {
+    "id": 12,
+    "nombre": "Cosgaya",
+    "lat": 21.09874870000001,         
+    "lng": -89.70315736629897, 
+    "estado": "normal",
+    "registros": ["Protesta vecinal activa"]
+  },
+    {
+    "id": 13,
+    "nombre": "Dzibilchaltún",
+    "lat": 21.09830352058625,        
+    "lng": -89.5980223786632,  
+    "estado": "normal",
+    "registros": ["Protesta vecinal activa"]
+  },
+    {
+    "id": 14,
+    "nombre": "Dzityá",
+    "lat": 21.05190545048309,         
+    "lng": -89.67971296398628, 
+    "estado": "normal",
+    "registros": ["Protesta vecinal activa"]
+  },
+    {
+    "id": 15,
+    "nombre": "Dzoyaxché",
+    "lat": 20.790607645576547,          
+    "lng": -89.59265703484786,
+    "estado": "normal",
+    "registros": ["Protesta vecinal activa"]
+  },
+    {
+    "id": 16,
+    "nombre": "Dzununcán",
+    "lat": 20.864297651747744,           
+    "lng": -89.65397333146137,
+    "estado": "normal",
+    "registros": ["Protesta vecinal activa"]
+  },
+    {
+    "id": 17,
+    "nombre": "Hunxectamán",
+    "lat": 20.904859038736433,           
+    "lng":  -89.74050662107719,
+    "estado": "normal",
+    "registros": ["Protesta vecinal activa"]
+  },
+    {
+    "id": 18,
+    "nombre": "Komchen",
+    "lat": 21.10949530251166,             
+    "lng":  -89.66681735141758,
+    "estado": "normal",
+    "registros": ["Protesta vecinal activa"]
+  },
+    {
+    "id": 19,
+    "nombre": "Molas",
+    "lat": 20.81623547082098,             
+    "lng":  -89.63088189682847, 
+    "estado": "normal",
+    "registros": ["Protesta vecinal activa"]
+  },
+    {
+    "id": 20,
+    "nombre": "Molas",
+    "lat": 20.81623547082098,             
+    "lng":  -89.63088189682847, 
+    "estado": "normal",
+    "registros": ["Protesta vecinal activa"]
+  },
+    {
+    "id": 21,
+    "nombre": "Noc Ac",
+    "lat": 21.08084459800624,              
+    "lng":  -89.71903403109066,
+    "estado": "normal",
+    "registros": ["Protesta vecinal activa"]
+  },
+    {
+    "id": 22,
+    "nombre": "Oncán",
+    "lat": 20.965305363143763,              
+    "lng":  -89.48262400679896, 
+    "estado": "normal",
+    "registros": ["Protesta vecinal activa"]
+  },
+    {
+    "id": 23,
+    "nombre": "Opichen",
+    "lat": 20.948192577674916,                
+    "lng": -89.67858942024688,
+    "estado": "normal",
+    "registros": ["Protesta vecinal activa"]
+  },
+    {
+    "id": 24,
+    "nombre": "Petac",
+    "lat": 20.7707304613604,                
+    "lng": -89.66064257682697, 
+    "estado": "normal",
+    "registros": ["Protesta vecinal activa"]
+  },
+    {
+    "id": 25,
+    "nombre": "Sac-Nicté",
+    "lat": 21.14016791032799,               
+    "lng":  -89.58495181357632,  
+    "estado": "normal",
+    "registros": ["Protesta vecinal activa"]
+  },
+    {
+    "id": 26,
+    "nombre": "San Antonio Hool",
+    "lat": 21.06394884109617,                
+    "lng":  -89.67494204746397,  
+    "estado": "normal",
+    "registros": ["Protesta vecinal activa"]
+  },
+    {
+    "id": 27,
+    "nombre": "San Antonio Hool",
+    "lat": 21.06394884109617,                
+    "lng":  -89.67494204746397,  
+    "estado": "normal",
+    "registros": ["Protesta vecinal activa"]
+  },
+    {
+    "id": 28,
+    "nombre": "San Ignacio Tesip",
+    "lat": 20.841705665554958,                
+    "lng":   -89.61277209981016,  
+    "estado": "normal",
+    "registros": ["Protesta vecinal activa"]
+  },
+    {
+    "id": 29,
+    "nombre": "San Jose Tzal",
+    "lat": 20.82783714726015,                 
+    "lng": -89.66137074575056, 
+    "estado": "normal",
+    "registros": ["Protesta vecinal activa"]
+  }
+,
+    {
+    "id": 30,
+    "nombre": "San Pedro Chimay",
+    "lat": 20.869383018860553,                  
+    "lng":-89.5796110267373, 
+    "estado": "normal",
+    "registros": ["Protesta vecinal activa"]
+  },
+    {
+    "id": 31,
+    "nombre": "Santa Cruz Palomeque",
+    "lat": 20.88124483279558,                    
+    "lng":-89.65789251320382,
+    "estado": "normal",
+    "registros": ["Protesta vecinal activa"]
+  },
+    {
+    "id": 32,
+    "nombre": "Santa Gertrudis Copo",
+    "lat": 21.040837151946576,                    
+    "lng": -89.59673855562967,
+    "estado": "normal",
+    "registros": ["Protesta vecinal activa"]
+  },
+    {
+    "id": 33,
+    "nombre": "Santa Maria Chi",
+    "lat": 21.032552961042995,                     
+    "lng": -89.48340471365891,
+    "estado": "normal",
+    "registros": ["Protesta vecinal activa"]
+  },
+    {
+    "id": 34,
+    "nombre": "Santa Maria Yaxche",
+    "lat": 21.11731068181861,                  
+    "lng": -89.6352122318771, 
+    "estado": "normal",
+    "registros": ["Protesta vecinal activa"]
+  },
+    {
+    "id": 35,
+    "nombre": "Sitpach",
+    "lat": 21.02911128578463,                   
+    "lng": -89.52326380810356,
+    "estado": "normal",
+    "registros": ["Protesta vecinal activa"]
+  },
+    {
+    "id": 36,
+    "nombre": "Sodzil Norte",
+    "lat": 21.044631769928404,                    
+    "lng": -89.62204044095363,
+    "estado": "normal",
+    "registros": ["Protesta vecinal activa"]
+  },
+    {
+    "id": 37,
+    "nombre": "Susula",
+    "lat": 20.973957260454277,                   
+    "lng":  -89.69744896975445, 
+    "estado": "normal",
+    "registros": ["Protesta vecinal activa"]
+  }
+,
+    {
+    "id": 38,
+    "nombre": "Suytunchen",
+    "lat": 21.102267762110152,                   
+    "lng":   -89.73194210621399,
+    "estado": "normal",
+    "registros": ["Protesta vecinal activa"]
+  },
+    {
+    "id": 39,
+    "nombre": "Tahdzibichen",
+    "lat": 20.888329347375,                    
+    "lng":-89.60025620203432,
+    "estado": "normal",
+    "registros": ["Protesta vecinal activa"]
+  },
+    {
+    "id": 40,
+    "nombre": "Temozon Norte",
+    "lat": 21.070454809330077,                     
+    "lng":-89.61805408453046,
+    "estado": "normal",
+    "registros": ["Protesta vecinal activa"]
+  },
+    {
+    "id": 41,
+    "nombre": "Texan Camara",
+    "lat": 20.78921562197301,                      
+    "lng":-89.66320189067179,
+    "estado": "normal",
+    "registros": ["Protesta vecinal activa"]
+  },
+    {
+    "id": 42,
+    "nombre": "Tixcacal",
+    "lat": 20.944537880864857,                       
+    "lng":-89.71573283164236,
+    "estado": "normal",
+    "registros": ["Protesta vecinal activa"]
+  },
+    {
+    "id": 43,
+    "nombre": "Tixcuytún",
+    "lat": 21.06896274261717,                        
+    "lng":-89.56998451338674,
+    "estado": "normal",
+    "registros": ["Protesta vecinal activa"]
+  },
+    {
+    "id": 44,
+    "nombre": "Tzacala",
+    "lat": 20.75224178431457,                         
+    "lng":-89.6560754385324,
+    "estado": "normal",
+    "registros": ["Protesta vecinal activa"]
+  },
+    {
+    "id": 45,
+    "nombre": "Xcanatun",
+    "lat": 21.078753584483263,                          
+    "lng":-89.63181359777933,
+    "estado": "normal",
+    "registros": ["Protesta vecinal activa"]
+  },
+    {
+    "id": 46,
+    "nombre": "Xcumpich",
+    "lat": 21.03319111134613,                          
+    "lng": -89.63848699816788,
+    "estado": "normal",
+    "registros": ["Protesta vecinal activa"]
+  }
+,
+    {
+    "id": 47,
+    "nombre": "Xmatkuil",
+    "lat": 20.87723628003317,                          
+    "lng":  -89.62494899753462,
+    "estado": "normal",
+    "registros": ["Protesta vecinal activa"]
+  },
+    {
+    "id": 48,
+    "nombre": "Yaxché Casares",
+    "lat": 21.034373030703705,                           
+    "lng":  -89.49899666772619,
+    "estado": "normal",
+    "registros": ["Protesta vecinal activa"]
+  }
+,
+    {
+    "id": 49,
+    "nombre": "Yaxnic",
+    "lat": 20.791929368537573,                            
+    "lng":  -89.62078154807533,
+    "estado": "normal",
+    "registros": ["Protesta vecinal activa"]
+  }
+
+
+
+
+
+
+]
